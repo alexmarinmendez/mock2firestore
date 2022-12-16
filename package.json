@@ -7,10 +7,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["mock data", "firestore", "array", "firebase", "alex marin mendez", "alex marin", "poblar firestore", "poblar base de datos", "base de datos"],
+  "author": "Alex Marin Mendez",
   "license": "ISC",
   "dependencies": {
     "firebase": "^9.15.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmarinmendez/mock2firestore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexmarinmendez/mock2firestore/issues"
+  },
+  "homepage": "https://github.com/alexmarinmendez/mock2firestore#readme"
 }
