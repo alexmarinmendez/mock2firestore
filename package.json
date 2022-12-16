@@ -1,6 +1,6 @@
 {
   "name": "mock2firestore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lee un array de objetos y crea documentos en una colección de Firestore con todas propiedades de los objetos",
   "main": "src/index.js",
   "type": "module",
